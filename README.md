@@ -2,6 +2,12 @@
 
 <!-- 发布徽章将在部署后更新 -->
 
+**Language / 语言选择:**
+- [🇨🇳 中文版 (当前)](README.md)
+- [🇺🇸 English Version](README_EN.md)
+
+---
+
 ![logo](logo.png)
 [Obsidian](https://obsidian.md/) 的 Anki 集成插件。
 
