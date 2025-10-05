@@ -1,0 +1,11 @@
+{
+  "id": "Ob8Anki",
+  "name": "Ob8Anki",
+  "version": "0.10.1",
+  "minAppVersion": "0.9.17",
+  "description": "Anki integration",
+  "author": "AbsNote",
+  "authorUrl": "",
+  "isDesktopOnly": true,
+  "css": "styles.css"
+}
